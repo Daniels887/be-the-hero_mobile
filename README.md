@@ -7,13 +7,13 @@
 - Listagem de casos;
 - Detalhe de cada caso;
 - Envio de e-mail direto pelo app;
-- Envio de mensagem pelo whatsapp direto pelo app;
+- Envio de mensagem pelo whatsapp direto pelo app.
 
 ## Techs
-- React-navigation
-- Axios
-- Expo-constants
-- Expo-mail-composer
-- Intl
+- React-navigation;
+- Axios;
+- Expo-constants;
+- Expo-mail-composer;
+- Intl.
 
 > Que a sorte esteja com você
